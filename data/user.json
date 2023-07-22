@@ -1,0 +1,67 @@
+[
+  {
+    "_id": {
+      "$oid": "647081ee6ead57d62ef98ab6"
+    },
+    "name": "Coiffard",
+    "surname": "Hugo",
+    "email": "hugo.coiffard@etu.uca.fr",
+    "password": "password",
+    "animalIds": [
+      {
+        "_id": { "$oid": "6470801d70abcc6f9fefdfc5" }
+      },
+      {
+        "_id": { "$oid": "6470801d70abcc6f9fefdfc4" }
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6470826ccd3eafd17c12c3fa"
+    },
+    "name": "Peyronon",
+    "surname": "Arno",
+    "email": "arno.peyronon@etu.uca.fr",
+    "password": "password2",
+    "animalIds": [
+      {
+        "_id": { "$oid": "6470801d70abcc6f9fefdfc2" }
+      },
+      {
+        "_id": { "$oid": "6470801d70abcc6f9fefdfc3" }
+      },
+      {
+        "_id": { "$oid": "6470801d70abcc6f9fefdfc5" }
+      },
+      {
+        "_id": { "$oid": "6470801d70abcc6f9fefdfc4" }
+      }
+    ]
+  },
+  {
+    "_id": { "$oid": "6470826ccd3eafd17c12c3fb" },
+    "name": "Dupont",
+    "surname": "Alice",
+    "email": "alice.dupont@example.com",
+    "password": "password123",
+    "animalIds": []
+  },
+  {
+    "_id": { "$oid": "6470826ccd3eafd17c12c3fc" },
+    "name": "Martin",
+    "surname": "Lucas",
+    "email": "lucas.martin@example.com",
+    "password": "securepassword",
+    "animalIds": []
+  },
+  {
+    "_id": { "$oid": "6470826ccd3eafd17c12c3fe" },
+    "name": "Admin",
+    "surname": "Admin",
+    "email": "admin@example.com",
+    "password": "admin123",
+    "isAdmin": true,
+    "animalIds": []
+  }
+]
